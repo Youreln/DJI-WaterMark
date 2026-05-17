@@ -1,0 +1,1602 @@
+文件夹 PATH 列表
+卷序列号为 E3B4-B02A
+F:.
+│  LICENSE.txt
+│  README.md
+│  全部文件目录.txt
+│  
+├─DJI drone
+│  ├─dji-air-2s
+│  │      24.png
+│  │      with-dji-logo_48.png
+│  │      
+│  ├─dji-air-2s-fly-more-combo
+│  │  ├─en
+│  │  │      24.png
+│  │  │      center_56.png
+│  │  │      left_56.png
+│  │  │      
+│  │  └─sc
+│  │          24.png
+│  │          center_56.png
+│  │          left_56.png
+│  │          
+│  ├─dji-air-3
+│  │  │  24.png
+│  │  │  with-dji-logo_48.png
+│  │  │  
+│  │  ├─shot-on_48
+│  │  │      en.png
+│  │  │      sc.png
+│  │  │      
+│  │  └─shot-on_72
+│  │      ├─24 mm-广角相机
+│  │      │      en.png
+│  │      │      sc.png
+│  │      │      
+│  │      └─70 mm-中长焦相机
+│  │              en.png
+│  │              sc.png
+│  │              
+│  ├─dji-air-3s
+│  │  │  24.png
+│  │  │  with-dji-logo_48.png
+│  │  │  
+│  │  ├─shot-on_48
+│  │  │      en.png
+│  │  │      sc.png
+│  │  │      
+│  │  └─shot-on_72
+│  │      ├─24 mm-广角相机
+│  │      │      en.png
+│  │      │      sc.png
+│  │      │      
+│  │      └─70 mm-中长焦相机
+│  │              en.png
+│  │              sc.png
+│  │              
+│  ├─dji-avata-360
+│  │  │  .DS_Store
+│  │  │  
+│  │  ├─black
+│  │  │  │  .DS_Store
+│  │  │  │  
+│  │  │  ├─pdf
+│  │  │  │  │  .DS_Store
+│  │  │  │  │  24.pdf
+│  │  │  │  │  with-dji-logo_48.pdf
+│  │  │  │  │  
+│  │  │  │  └─shot-with_80
+│  │  │  │          en.pdf
+│  │  │  │          sc.pdf
+│  │  │  │          
+│  │  │  ├─png
+│  │  │  │  │  .DS_Store
+│  │  │  │  │  24.png
+│  │  │  │  │  with-dji-logo_48.png
+│  │  │  │  │  
+│  │  │  │  └─shot-with_80
+│  │  │  │          en.png
+│  │  │  │          sc.png
+│  │  │  │          
+│  │  │  └─svg
+│  │  │      │  .DS_Store
+│  │  │      │  24.svg
+│  │  │      │  with-dji-logo_48.svg
+│  │  │      │  
+│  │  │      └─shot-with_80
+│  │  │              en.svg
+│  │  │              sc.svg
+│  │  │              
+│  │  └─white
+│  │      │  .DS_Store
+│  │      │  
+│  │      ├─pdf
+│  │      │  │  .DS_Store
+│  │      │  │  24.pdf
+│  │      │  │  with-dji-logo_48.pdf
+│  │      │  │  
+│  │      │  └─shot-with_80
+│  │      │          en.pdf
+│  │      │          sc.pdf
+│  │      │          
+│  │      ├─png
+│  │      │  │  .DS_Store
+│  │      │  │  24.png
+│  │      │  │  with-dji-logo_48.png
+│  │      │  │  
+│  │      │  └─shot-with_80
+│  │      │          en.png
+│  │      │          sc.png
+│  │      │          
+│  │      └─svg
+│  │          │  .DS_Store
+│  │          │  24.svg
+│  │          │  with-dji-logo_48.svg
+│  │          │  
+│  │          └─shot-with_80
+│  │                  en.svg
+│  │                  sc.svg
+│  │                  
+│  ├─dji-flip
+│  │  │  24.png
+│  │  │  with-dji-logo_48.png
+│  │  │  
+│  │  └─shot-on_48
+│  │          en.png
+│  │          sc.png
+│  │          
+│  ├─dji-flip-fly-more-combo
+│  │  ├─en
+│  │  │      24.png
+│  │  │      center_56.png
+│  │  │      left_56.png
+│  │  │      
+│  │  └─sc
+│  │          24.png
+│  │          center_56.png
+│  │          left_56.png
+│  │          
+│  ├─dji-mavic-3
+│  │  │  24.png
+│  │  │  with-dji-logo_48.png
+│  │  │  
+│  │  └─shot-on_48
+│  │          en.png
+│  │          sc.png
+│  │          
+│  ├─dji-mavic-3-cine
+│  │  │  24.png
+│  │  │  center_56.png
+│  │  │  left_56.png
+│  │  │  with-dji-logo_48.png
+│  │  │  
+│  │  └─shot-on_48
+│  │          en.png
+│  │          sc.png
+│  │          
+│  ├─dji-mavic-3-cine-premium-combo
+│  │  ├─en
+│  │  │      24.png
+│  │  │      center_56.png
+│  │  │      left_56.png
+│  │  │      
+│  │  └─sc
+│  │          24.png
+│  │          center_56.png
+│  │          left_56.png
+│  │          
+│  ├─dji-mavic-3-classic
+│  │  │  24.png
+│  │  │  center_56.png
+│  │  │  left_56.png
+│  │  │  with-dji-logo_48.png
+│  │  │  
+│  │  └─shot-on_48
+│  │          en.png
+│  │          sc.png
+│  │          
+│  ├─dji-mavic-3-enterprise-series
+│  │  ├─de
+│  │  │      24.png
+│  │  │      56_center.png
+│  │  │      56_left.png
+│  │  │      
+│  │  ├─en
+│  │  │      24.png
+│  │  │      56_center.png
+│  │  │      56_left.png
+│  │  │      
+│  │  ├─es
+│  │  │      24.png
+│  │  │      56_center.png
+│  │  │      56_left.png
+│  │  │      
+│  │  ├─fr
+│  │  │      24.png
+│  │  │      56_center.png
+│  │  │      56_left.png
+│  │  │      
+│  │  ├─it
+│  │  │      24.png
+│  │  │      56_center.png
+│  │  │      56_left.png
+│  │  │      
+│  │  ├─jp
+│  │  │      24.png
+│  │  │      56_center.png
+│  │  │      56_left.png
+│  │  │      
+│  │  ├─kr
+│  │  │      24.png
+│  │  │      56_center.png
+│  │  │      56_left.png
+│  │  │      
+│  │  ├─pt
+│  │  │      32.png
+│  │  │      64_center.png
+│  │  │      64_left.png
+│  │  │      
+│  │  ├─ru
+│  │  │      24.png
+│  │  │      56_center.png
+│  │  │      56_left.png
+│  │  │      
+│  │  ├─sc
+│  │  │      24.png
+│  │  │      56_center.png
+│  │  │      56_left.png
+│  │  │      
+│  │  └─tc
+│  │          24.png
+│  │          56_center.png
+│  │          56_left.png
+│  │          
+│  ├─dji-mavic-3-fly-more-combo
+│  │  ├─en
+│  │  │      24.png
+│  │  │      center_56.png
+│  │  │      left_56.png
+│  │  │      
+│  │  └─sc
+│  │          24.png
+│  │          center_56.png
+│  │          left_56.png
+│  │          
+│  ├─dji-mavic-3-fly-more-kit
+│  │  └─en
+│  │          24.png
+│  │          center_56.png
+│  │          left_56.png
+│  │          
+│  ├─dji-mavic-3-fly-more-kit-(shoulder-bag)
+│  │  ├─en
+│  │  │      24.png
+│  │  │      center_56.png
+│  │  │      left_56.png
+│  │  │      
+│  │  └─sc
+│  │          24.png
+│  │          center_56.png
+│  │          left_56.png
+│  │          
+│  ├─dji-mavic-3-pro
+│  │  │  24.png
+│  │  │  center_56.png
+│  │  │  left_56.png
+│  │  │  with-dji-logo_48.png
+│  │  │  
+│  │  ├─shot-on_48
+│  │  │      en.png
+│  │  │      sc.png
+│  │  │      
+│  │  └─shot-on_72
+│  │      ├─166 mm-tele-camera
+│  │      │      en.png
+│  │      │      sc.png
+│  │      │      
+│  │      ├─24 mm-hasselblad-camera
+│  │      │      en.png
+│  │      │      sc.png
+│  │      │      
+│  │      └─70 mm-medium-tele-camera
+│  │              en.png
+│  │              sc.png
+│  │              
+│  ├─dji-mavic-3-pro-cine
+│  │  │  24.png
+│  │  │  center_56.png
+│  │  │  left_56.png
+│  │  │  with-dji-logo_48.png
+│  │  │  
+│  │  ├─shot-on_48
+│  │  │      en.png
+│  │  │      sc.png
+│  │  │      
+│  │  └─shot-on_72
+│  │      ├─166 mm-tele-camera
+│  │      │      en.png
+│  │      │      sc.png
+│  │      │      
+│  │      ├─24 mm-hasselblad-camera
+│  │      │      en.png
+│  │      │      sc.png
+│  │      │      
+│  │      └─70 mm-medium-tele-camera
+│  │              en.png
+│  │              sc.png
+│  │              
+│  ├─dji-mavic-3-series
+│  │  ├─br
+│  │  │      32.png
+│  │  │      
+│  │  ├─de
+│  │  │      24.png
+│  │  │      
+│  │  ├─en
+│  │  │      24.png
+│  │  │      
+│  │  ├─es
+│  │  │      24.png
+│  │  │      
+│  │  ├─fr
+│  │  │      24.png
+│  │  │      
+│  │  ├─it
+│  │  │      24.png
+│  │  │      
+│  │  ├─jp
+│  │  │      24.png
+│  │  │      
+│  │  ├─kr
+│  │  │      24.png
+│  │  │      
+│  │  ├─ru
+│  │  │      24.png
+│  │  │      
+│  │  ├─sc
+│  │  │      24.png
+│  │  │      
+│  │  └─tc
+│  │          24.png
+│  │          
+│  ├─dji-mavic-3e
+│  │  ├─en
+│  │  │      24.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─sc
+│  │          24.png
+│  │          56.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─dji-mavic-3e-bd
+│  │      24.png
+│  │      with-dji-logo_48.png
+│  │      
+│  ├─dji-mavic-3e-eu
+│  │  ├─en
+│  │  │      24.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─sc
+│  │          24.png
+│  │          56.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─dji-mavic-3m
+│  │  ├─en
+│  │  │      24.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─sc
+│  │          24.png
+│  │          56.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─dji-mavic-3m-eu
+│  │  ├─en
+│  │  │      24.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─sc
+│  │          24.png
+│  │          56.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─dji-mavic-3t
+│  │  ├─en
+│  │  │      24.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─sc
+│  │          24.png
+│  │          56.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─dji-mavic-3t-bd
+│  │      24.png
+│  │      with-dji-logo_48.png
+│  │      
+│  ├─dji-mavic-3t-eu
+│  │  ├─en
+│  │  │      24.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─sc
+│  │          24.png
+│  │          56.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─dji-mavic-3ta
+│  │      24.png
+│  │      24_full.png
+│  │      with-dji-logo_48.png
+│  │      
+│  ├─dji-mavic-4-pro
+│  │  │  24.png
+│  │  │  center_56.png
+│  │  │  left_56.png
+│  │  │  with-dji-logo_48.png
+│  │  │  
+│  │  ├─shot-on_48
+│  │  │      en.png
+│  │  │      sc.png
+│  │  │      
+│  │  └─shot-on_72
+│  │      ├─168 mm-tele-camera
+│  │      │      en.png
+│  │      │      sc.png
+│  │      │      
+│  │      ├─28 mm-hasselblad-camera
+│  │      │      en.png
+│  │      │      sc.png
+│  │      │      
+│  │      └─70 mm-medium-tele-camera
+│  │              en.png
+│  │              sc.png
+│  │              
+│  ├─dji-mini-2
+│  │      24.png
+│  │      with-dji-logo_48.png
+│  │      
+│  ├─dji-mini-2-fly-more-combo
+│  │  ├─cn
+│  │  │      24.png
+│  │  │      center_56.png
+│  │  │      left_56.png
+│  │  │      
+│  │  └─en
+│  │          24.png
+│  │          center_56.png
+│  │          left_56.png
+│  │          
+│  ├─dji-mini-2-se
+│  │  │  24.png
+│  │  │  with-dji-logo_48.png
+│  │  │  
+│  │  └─shot-on_48
+│  │          en.png
+│  │          sc.png
+│  │          
+│  ├─dji-mini-2-se-4k
+│  │  │  24.png
+│  │  │  with-dji-logo_48.png
+│  │  │  
+│  │  └─shot-on_48
+│  │          en.png
+│  │          sc.png
+│  │          
+│  ├─dji-mini-3
+│  │  │  24.png
+│  │  │  with-dji-logo_48.png
+│  │  │  
+│  │  └─shot-on_48
+│  │          en.png
+│  │          sc.png
+│  │          
+│  ├─dji-mini-3-pro
+│  │  │  24.png
+│  │  │  with-dji-logo_48.png
+│  │  │  
+│  │  └─shot-on_48
+│  │          en.png
+│  │          sc.png
+│  │          
+│  ├─dji-mini-3-pro-fly-more-kit
+│  │  └─sc
+│  │          24.png
+│  │          center_56.png
+│  │          left_56.png
+│  │          
+│  ├─dji-mini-3-pro-fly-more-kit-plus
+│  │  └─sc
+│  │          24.png
+│  │          center_56.png
+│  │          left_56.png
+│  │          
+│  ├─dji-mini-3-series
+│  │  ├─en
+│  │  │      24.png
+│  │  │      
+│  │  └─sc
+│  │          24.png
+│  │          
+│  ├─dji-mini-4-pro
+│  │  │  24.png
+│  │  │  with-dji-logo_48.png
+│  │  │  
+│  │  └─shot-on_48
+│  │          en.png
+│  │          sc.png
+│  │          
+│  ├─dji-mini-4k
+│  │  │  24.png
+│  │  │  with-dji-logo_48.png
+│  │  │  
+│  │  └─shot-on_48
+│  │          en.png
+│  │          sc.png
+│  │          
+│  ├─dji-mini-5-pro
+│  │  │  24.png
+│  │  │  with-dji-logo_48.png
+│  │  │  
+│  │  └─shot-on_48
+│  │          en.png
+│  │          sc.png
+│  │          
+│  ├─dji-mini-se
+│  │      24.png
+│  │      with-dji-logo_48.png
+│  │      
+│  ├─mavic-2
+│  │  ├─en
+│  │  │      24.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  ├─kr
+│  │  │      24.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  ├─sc
+│  │  │      24.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─tc
+│  │          24.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─mavic-2-enterprise
+│  │  ├─en
+│  │  │      24.png
+│  │  │      48.png
+│  │  │      56.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  ├─kr
+│  │  │      24.png
+│  │  │      48.png
+│  │  │      56.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  ├─sc
+│  │  │      24.png
+│  │  │      48.png
+│  │  │      56.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─tc
+│  │          24.png
+│  │          48.png
+│  │          56.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─mavic-2-enterprise-advanced
+│  │  ├─en
+│  │  │      24.png
+│  │  │      abbr_24.png
+│  │  │      center_56.png
+│  │  │      left_56.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─sc
+│  │          24.png
+│  │          center_56.png
+│  │          left_56.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─mavic-2-enterprise-dual
+│  │  ├─en
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─sc
+│  │          24.png
+│  │          56.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─mavic-2-enterprise-series
+│  │  ├─en
+│  │  │      24.png
+│  │  │      48.png
+│  │  │      56.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  ├─kr
+│  │  │      24.png
+│  │  │      48.png
+│  │  │      56.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  ├─sc
+│  │  │      24.png
+│  │  │      48.png
+│  │  │      56.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─tc
+│  │          24.png
+│  │          48.png
+│  │          56.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─mavic-2-pro
+│  │  ├─en
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      shot-on_48.png
+│  │  │      with-dji-logo_48.png
+│  │  │      with-smart-controller_48.png
+│  │  │      with-smart-controller_56.png
+│  │  │      
+│  │  ├─kr
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      shot-on_48.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  ├─sc
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      sc_24.png
+│  │  │      sc_56.png
+│  │  │      shot-on_48.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─tc
+│  │          24.png
+│  │          56.png
+│  │          shot-on_48.png
+│  │          tc_24.png
+│  │          tc_56.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─mavic-2-pro+
+│  │  ├─en
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  ├─kr
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  ├─sc
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─tc
+│  │          24.png
+│  │          56.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─mavic-2-pro-zoom
+│  │  ├─en
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      
+│  │  ├─kr
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      
+│  │  ├─sc
+│  │  │      abbr_24.png
+│  │  │      abbr_56.png
+│  │  │      full_24.png
+│  │  │      full_56.png
+│  │  │      
+│  │  └─tc
+│  │          abbr_24.png
+│  │          abbr_56.png
+│  │          full_24.png
+│  │          full_56.png
+│  │          
+│  ├─mavic-2-series
+│  │  ├─en
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      with-dji-logo_48.png
+│  │  │      with-smart-controller_48.png
+│  │  │      with-smart-controller_56.png
+│  │  │      
+│  │  ├─kr
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  ├─sc
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─tc
+│  │          24.png
+│  │          56.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─mavic-2-zoom
+│  │  ├─en
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      shot-on_48.png
+│  │  │      with-dji-logo_48.png
+│  │  │      with-smart-controller_48.png
+│  │  │      with-smart-controller_56.png
+│  │  │      
+│  │  ├─kr
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      shot-on_48.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  ├─sc
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      sc_24.png
+│  │  │      sc_56.png
+│  │  │      shot-on_48.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─tc
+│  │          24.png
+│  │          56.png
+│  │          shot-on_48.png
+│  │          tc_24.png
+│  │          tc_56.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─mavic-air
+│  │  ├─en
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      shot-on_48.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  ├─kr
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      shot-on_48.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  ├─sc
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      shot-on_48.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─tc
+│  │          24.png
+│  │          56.png
+│  │          shot-on_48.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─mavic-air-2
+│  │  ├─en
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      shot-on_48.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  ├─kr
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      shot-on_48.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  ├─sc
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      shot-on_48.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─tc
+│  │          24.png
+│  │          56.png
+│  │          shot-on_48.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─mavic-air-2-fly-more-combo
+│  │  ├─en
+│  │  │      24.png
+│  │  │      center_56.png
+│  │  │      left_56.png
+│  │  │      
+│  │  └─sc
+│  │          24.png
+│  │          center_56.png
+│  │          left_56.png
+│  │          
+│  ├─mavic-air-fly-more-combo
+│  │  └─en
+│  │          24.png
+│  │          center_56.png
+│  │          left_56.png
+│  │          
+│  ├─mavic-mini
+│  │  ├─en
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      full_48.png
+│  │  │      nick_24.png
+│  │  │      shot-on_48.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─sc
+│  │          abbr_01_24.png
+│  │          abbr_02_24.png
+│  │          abbr_02_56.png
+│  │          abbr_03_24.png
+│  │          full_24.png
+│  │          full_56.png
+│  │          nick_24.png
+│  │          shot-on_48.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─mavic-mini-fly-more-combo
+│  │  ├─en
+│  │  │      24.png
+│  │  │      center_56.png
+│  │  │      left_56.png
+│  │  │      
+│  │  └─sc
+│  │          24.png
+│  │          center_56.png
+│  │          left_56.png
+│  │          
+│  ├─mavic-pro
+│  │  ├─en
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  ├─kr
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  ├─sc
+│  │  │      24.png
+│  │  │      56.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─tc
+│  │          24.png
+│  │          56.png
+│  │          with-dji-logo_48.png
+│  │          
+│  ├─mavic-pro-alpine-white
+│  │  ├─en
+│  │  │      24.png
+│  │  │      48.png
+│  │  │      56.png
+│  │  │      
+│  │  ├─kr
+│  │  │      24.png
+│  │  │      48.png
+│  │  │      56.png
+│  │  │      
+│  │  ├─sc
+│  │  │      24.png
+│  │  │      48.png
+│  │  │      56.png
+│  │  │      
+│  │  └─tc
+│  │          24.png
+│  │          48.png
+│  │          56.png
+│  │          
+│  ├─mavic-pro-platinum
+│  │  ├─en
+│  │  │      24.png
+│  │  │      48.png
+│  │  │      56.png
+│  │  │      
+│  │  ├─kr
+│  │  │      24.png
+│  │  │      48.png
+│  │  │      56.png
+│  │  │      
+│  │  ├─sc
+│  │  │      24.png
+│  │  │      48.png
+│  │  │      56.png
+│  │  │      with-dji-logo_48.png
+│  │  │      
+│  │  └─tc
+│  │          24.png
+│  │          48.png
+│  │          56.png
+│  │          
+│  └─mavic-series
+│      ├─en
+│      │      24.png
+│      │      56.png
+│      │      with-dji-logo_48.png
+│      │      
+│      ├─kr
+│      │      24.png
+│      │      56.png
+│      │      with-dji-logo_48.png
+│      │      
+│      ├─sc
+│      │      24.png
+│      │      56.png
+│      │      with-dji-logo_48.png
+│      │      
+│      └─tc
+│              24.png
+│              56.png
+│              with-dji-logo_48.png
+│              
+└─DJI osmo
+    ├─dji-action-2
+    │  │  24.png
+    │  │  with-dji-logo_48.png
+    │  │  
+    │  └─shot-on_48
+    │          en.png
+    │          sc.png
+    │          
+    ├─dji-action-2-power-module
+    │  ├─en
+    │  │      24.png
+    │  │      
+    │  └─sc
+    │          24.png
+    │          
+    ├─dji-om-4
+    │  │  24.png
+    │  │  with-dji-logo_48.png
+    │  │  
+    │  └─shot-on_48
+    │          en.png
+    │          sc.png
+    │          
+    ├─dji-om-4-se
+    │  │  24.png
+    │  │  with-dji-logo_48.png
+    │  │  
+    │  └─shot-on_48
+    │          en.png
+    │          sc.png
+    │          
+    ├─dji-om-5
+    │  │  24.png
+    │  │  with-dji-logo_48.png
+    │  │  
+    │  └─shot-on_48
+    │          en.png
+    │          sc.png
+    │          
+    ├─dji-om-5-sunset-white
+    │      24.png
+    │      56_center.png
+    │      56_left.png
+    │      with-dji-logo_48.png
+    │      
+    ├─dji-osmo-series
+    │  ├─en
+    │  │      24.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  └─sc
+    │          24.png
+    │          with-dji-logo_48.png
+    │          
+    ├─dji-pocket-2
+    │  │  24.png
+    │  │  with-dji-logo_48.png
+    │  │  
+    │  └─shot-on_48
+    │          en.png
+    │          sc.png
+    │          
+    ├─dji-pocket-2-combo
+    │  ├─en
+    │  │      24.png
+    │  │      56.png
+    │  │      
+    │  └─sc
+    │          24.png
+    │          56.png
+    │          
+    ├─dji-pocket-2-exclusive-combo(sunset-white)
+    │  ├─en
+    │  │      24.png
+    │  │      center_56.png
+    │  │      left_56.png
+    │  │      
+    │  ├─kr
+    │  │      24.png
+    │  │      center_56.png
+    │  │      left_56.png
+    │  │      
+    │  ├─sc
+    │  │      24.png
+    │  │      center_56.png
+    │  │      left_56.png
+    │  │      
+    │  └─tc
+    │          24.png
+    │          center_56.png
+    │          left_56.png
+    │          
+    ├─osmo
+    ├─osmo+
+    │  ├─en
+    │  │      24.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  ├─kr
+    │  │      24.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  ├─sc
+    │  │      24.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  └─tc
+    │          24.png
+    │          with-dji-logo_48.png
+    │          
+    ├─osmo-1
+    │  ├─en
+    │  │      24.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  ├─kr
+    │  │      24.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  ├─sc
+    │  │      24.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  └─tc
+    │          24.png
+    │          with-dji-logo_48.png
+    │          
+    ├─osmo-360
+    │  │  24.png
+    │  │  with-dji-logo_48.png
+    │  │  
+    │  └─shot-on_48
+    │          en.png
+    │          sc.png
+    │          
+    ├─osmo-action
+    │  ├─en
+    │  │      24.png
+    │  │      56.png
+    │  │      shot-on_48.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  ├─kr
+    │  │      24.png
+    │  │      56.png
+    │  │      shot-on_48.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  ├─sc
+    │  │      abbr_24.png
+    │  │      abbr_56.png
+    │  │      full_24.png
+    │  │      full_56.png
+    │  │      shot-on_48.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  └─tc
+    │          abbr_24.png
+    │          abbr_56.png
+    │          full_24.png
+    │          full_56.png
+    │          shot-on_48.png
+    │          with-dji-logo_48.png
+    │          
+    ├─osmo-action-3
+    │  │  24.png
+    │  │  left_56.png
+    │  │  with-dji-logo_48.png
+    │  │  
+    │  └─shot-on_48
+    │          en.png
+    │          sc.png
+    │          
+    ├─osmo-action-3-1.5m-extension-rod-kit
+    │  ├─en
+    │  │      24.png
+    │  │      56_center.png
+    │  │      56_left.png
+    │  │      
+    │  └─sc
+    │          24.png
+    │          56_center.png
+    │          56_left.png
+    │          
+    ├─osmo-action-3-adventure-combo
+    │  ├─en
+    │  │      24.png
+    │  │      center_56.png
+    │  │      left_56.png
+    │  │      
+    │  └─sc
+    │          24.png
+    │          center_56.png
+    │          left_56.png
+    │          
+    ├─osmo-action-3-biking-combo
+    │  ├─en
+    │  │      24.png
+    │  │      center_56.png
+    │  │      left_56.png
+    │  │      
+    │  └─sc
+    │          24.png
+    │          center_56.png
+    │          left_56.png
+    │          
+    ├─osmo-action-3-diving-combo
+    │  ├─en
+    │  │      24.png
+    │  │      center_56.png
+    │  │      left_56.png
+    │  │      
+    │  └─sc
+    │          24.png
+    │          center_56.png
+    │          left_56.png
+    │          
+    ├─osmo-action-3-skiing-combo
+    │  ├─en
+    │  │      24.png
+    │  │      center_56.png
+    │  │      left_56.png
+    │  │      
+    │  └─sc
+    │          24.png
+    │          center_56.png
+    │          left_56.png
+    │          
+    ├─osmo-action-3-standard-combo
+    │  ├─en
+    │  │      24.png
+    │  │      center_56.png
+    │  │      left_56.png
+    │  │      
+    │  └─sc
+    │          24.png
+    │          center_56.png
+    │          left_56.png
+    │          
+    ├─osmo-action-3-travelling-combo
+    │  ├─en
+    │  │      24.png
+    │  │      center_56.png
+    │  │      left_56.png
+    │  │      
+    │  └─sc
+    │          24.png
+    │          center_56.png
+    │          left_56.png
+    │          
+    ├─osmo-action-4
+    │  │  24.png
+    │  │  center_56.png
+    │  │  left_56.png
+    │  │  with-dji-logo_48.png
+    │  │  
+    │  └─shot-on_48
+    │          en.png
+    │          sc.png
+    │          
+    ├─osmo-action-5-pro
+    │  │  24.png
+    │  │  center_56.png
+    │  │  left_56.png
+    │  │  with-dji-logo_48.png
+    │  │  
+    │  └─shot-on_48
+    │          en.png
+    │          sc.png
+    │          
+    ├─osmo-action-6
+    │  │  24.png
+    │  │  center_56.png
+    │  │  left_56.png
+    │  │  with-dji-logo_48.png
+    │  │  
+    │  └─shot-on_48
+    │          en.png
+    │          sc.png
+    │          
+    ├─osmo-action-biking-accessory-kit
+    │  ├─en
+    │  │      24.png
+    │  │      56_center.png
+    │  │      56_left.png
+    │  │      
+    │  └─sc
+    │          24.png
+    │          56_center.png
+    │          56_left.png
+    │          
+    ├─osmo-action-diving-accessory-kit
+    │  ├─en
+    │  │      24.png
+    │  │      56_center.png
+    │  │      56_left.png
+    │  │      
+    │  └─sc
+    │          24.png
+    │          56_center.png
+    │          56_left.png
+    │          
+    ├─osmo-action-series
+    │  ├─en
+    │  │      24.png
+    │  │      center_56.png
+    │  │      left_56.png
+    │  │      
+    │  └─sc
+    │          24.png
+    │          center_56.png
+    │          left_56.png
+    │          
+    ├─osmo-brand
+    │      24.png
+    │      24_without-dji.png
+    │      with-dji-logo_48.png
+    │      
+    ├─osmo-mobile
+    │  ├─en
+    │  │      24.png
+    │  │      56.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  ├─kr
+    │  │      24.png
+    │  │      56.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  ├─sc
+    │  │      24.png
+    │  │      56.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  └─tc
+    │          24.png
+    │          56.png
+    │          with-dji-logo_48.png
+    │          
+    ├─osmo-mobile-2
+    │  ├─en
+    │  │      24.png
+    │  │      56.png
+    │  │      shot-on_48.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  ├─kr
+    │  │      24.png
+    │  │      56.png
+    │  │      shot-on_48.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  ├─sc
+    │  │      56.png
+    │  │      abbr_24.png
+    │  │      full_24.png
+    │  │      shot-on_48.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  └─tc
+    │          24.png
+    │          56.png
+    │          shot-on_48.png
+    │          with-dji-logo_48.png
+    │          
+    ├─osmo-mobile-3
+    │  ├─en
+    │  │      24.png
+    │  │      56.png
+    │  │      shot-with_48.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  ├─kr
+    │  │      24.png
+    │  │      56.png
+    │  │      shot-with_48.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  ├─sc
+    │  │      abbr_24.png
+    │  │      abbr_56.png
+    │  │      full_24.png
+    │  │      full_56.png
+    │  │      shot-on_48.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  └─tc
+    │          24.png
+    │          56.png
+    │          shot-with_48.png
+    │          with-dji-logo_48.png
+    │          
+    ├─osmo-mobile-3-combo
+    │  ├─en
+    │  │      24.png
+    │  │      56.png
+    │  │      
+    │  └─sc
+    │          full_24.png
+    │          full_56.png
+    │          
+    ├─osmo-mobile-6
+    │  │  24.png
+    │  │  with-dji-logo_48.png
+    │  │  
+    │  └─shot-on_48
+    │          en.png
+    │          sc.png
+    │          
+    ├─osmo-mobile-6-platinum-gray
+    │  ├─en
+    │  │      24.png
+    │  │      56.png
+    │  │      
+    │  ├─kr
+    │  │      24.png
+    │  │      56_center.png
+    │  │      56_left.png
+    │  │      
+    │  └─sc
+    │          24.png
+    │          56_center.png
+    │          56_left.png
+    │          
+    ├─osmo-mobile-6-slate-gray
+    │  ├─en
+    │  │      24.png
+    │  │      56_center.png
+    │  │      56_left.png
+    │  │      
+    │  ├─kr
+    │  │      24.png
+    │  │      56_center.png
+    │  │      56_left.png
+    │  │      
+    │  └─sc
+    │          24.png
+    │          56_center.png
+    │          56_left.png
+    │          
+    ├─osmo-mobile-7
+    │  │  24.png
+    │  │  center_56.png
+    │  │  left_56.png
+    │  │  with-dji-logo_48.png
+    │  │  
+    │  └─shot-on_48
+    │          en.png
+    │          sc.png
+    │          
+    ├─osmo-mobile-7-series
+    │  ├─en
+    │  │      24.png
+    │  │      center_56.png
+    │  │      left_56.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  └─sc
+    │          24.png
+    │          center_56.png
+    │          left_56.png
+    │          with-dji-logo_48.png
+    │          
+    ├─osmo-mobile-7p
+    │  │  24.png
+    │  │  center_56.png
+    │  │  left_56.png
+    │  │  with-dji-logo_48.png
+    │  │  
+    │  └─shot-on_48
+    │          en.png
+    │          sc.png
+    │          
+    ├─osmo-mobile-8
+    │  │  24.png
+    │  │  center_56.png
+    │  │  left_56.png
+    │  │  with-dji-logo_48.png
+    │  │  
+    │  └─shot-on_48
+    │          en.png
+    │          sc.png
+    │          
+    ├─osmo-mobile-8p
+    │  │  24.png
+    │  │  center_56.png
+    │  │  left_56.png
+    │  │  with-dji-logo_48.png
+    │  │  
+    │  └─shot-on_48
+    │          en.png
+    │          sc.png
+    │          
+    ├─osmo-mobile-se
+    │  │  24.png
+    │  │  with-dji-logo_48.png
+    │  │  
+    │  ├─shot-on_48
+    │  │      en.png
+    │  │      sc.png
+    │  │      
+    │  └─shot-with_48
+    │          sc.png
+    │          
+    ├─osmo-mobile-series
+    │  ├─en
+    │  │      24.png
+    │  │      center_56.png
+    │  │      left_56.png
+    │  │      
+    │  └─sc
+    │          24.png
+    │          center_56.png
+    │          left_56.png
+    │          
+    ├─osmo-nano
+    │  │  24.png
+    │  │  with-dji-logo_48.png
+    │  │  
+    │  └─shot-on_48
+    │          en.png
+    │          sc.png
+    │          
+    ├─osmo-pocket
+    │  ├─en
+    │  │      24.png
+    │  │      56.png
+    │  │      shot-on_48.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  ├─kr
+    │  │      24.png
+    │  │      56.png
+    │  │      shot-on_48.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  ├─sc
+    │  │      abbr_24.png
+    │  │      abbr_56.png
+    │  │      full_24.png
+    │  │      full_56.png
+    │  │      shot-on_48.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  └─tc
+    │          abbr_24.png
+    │          abbr_56.png
+    │          full_24.png
+    │          full_56.png
+    │          shot-on_48.png
+    │          with-dji-logo_48.png
+    │          
+    ├─osmo-pocket-3
+    │  │  24.png
+    │  │  left_56.png
+    │  │  with-dji-logo_48.png
+    │  │  
+    │  └─shot-on_48
+    │          en.png
+    │          sc.png
+    │          
+    ├─osmo-pocket-series
+    │  ├─en
+    │  │      24.png
+    │  │      center_56.png
+    │  │      left_56.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  └─sc
+    │          24.png
+    │          center_56.png
+    │          left_56.png
+    │          with-dji-logo_48.png
+    │          
+    ├─osmo-pro
+    │  ├─en
+    │  │      24.png
+    │  │      56.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  ├─kr
+    │  │      24.png
+    │  │      56.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  ├─sc
+    │  │      24.png
+    │  │      56.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  └─tc
+    │          24.png
+    │          56.png
+    │          with-dji-logo_48.png
+    │          
+    ├─osmo-pro-combo
+    │  ├─en
+    │  │      24.png
+    │  │      56.png
+    │  │      
+    │  ├─kr
+    │  │      24.png
+    │  │      56.png
+    │  │      
+    │  ├─sc
+    │  │      24.png
+    │  │      56.png
+    │  │      
+    │  └─tc
+    │          24.png
+    │          56.png
+    │          
+    ├─osmo-pro-raw
+    │  ├─en
+    │  │      24.png
+    │  │      56.png
+    │  │      
+    │  ├─kr
+    │  │      24.png
+    │  │      56.png
+    │  │      
+    │  ├─sc
+    │  │      24.png
+    │  │      56.png
+    │  │      
+    │  └─tc
+    │          24.png
+    │          56.png
+    │          
+    ├─osmo-raw
+    │  ├─en
+    │  │      24.png
+    │  │      56.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  ├─kr
+    │  │      24.png
+    │  │      56.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  ├─sc
+    │  │      24.png
+    │  │      56.png
+    │  │      with-dji-logo_48.png
+    │  │      
+    │  └─tc
+    │          24.png
+    │          56.png
+    │          with-dji-logo_48.png
+    │          
+    └─osmo-raw-combo
+        ├─en
+        │      24.png
+        │      56.png
+        │      
+        ├─kr
+        │      24.png
+        │      56.png
+        │      
+        ├─sc
+        │      24.png
+        │      56.png
+        │      
+        └─tc
+                24.png
+                56.png
+                
